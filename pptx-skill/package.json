@@ -1,0 +1,11 @@
+{
+    "name": "pptx-skill",
+    "version": "1.0.0",
+    "description": "Googleスライド互換のPPTX自動生成スキル",
+    "private": true,
+    "dependencies": {
+        "googleapis": "^134.0.0",
+        "image-size": "^2.0.2",
+        "pptxgenjs": "^3.12.0"
+    }
+}
