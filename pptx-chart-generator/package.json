@@ -1,0 +1,14 @@
+{
+  "name": "pptx-chart-generator",
+  "version": "1.0.0",
+  "description": "PowerPoint slide and chart auto-generator library for educational distribution.",
+  "main": "sample-deck.js",
+  "scripts": {
+    "generate": "node sample-deck.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  },
+  "author": "Slide Generator Student",
+  "license": "MIT"
+}
